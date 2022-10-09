@@ -1,7 +1,7 @@
 **Webzignet**
 
 <p align="center">
-  <img ="https://cdn.webzignet.ml/portada.png" />
+  <img src="https://cdn.webzignet.ml/portada.png" alt="portada" >
 </p>
 
 # Links
