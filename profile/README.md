@@ -1,12 +1,10 @@
-## Hi there 👋
+**Webzignet**
 
-<!--
+<p align="center">
+  <img src="/img/front page.png" alt="Screenshot of the Revolt client with the Revolt Testers server open in the Information and Rules channel." />
+</p>
 
-**Here are some ideas to get you started:**
+# Links
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+- ### [🌍 Website](https://webzignet.ml) The Webzignet website.
+- ### [🔧 Developer Documentation](https://webzignet.ml/developers) Docs for developers.
