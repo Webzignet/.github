@@ -1,7 +1,7 @@
 **Webzignet**
 
 <p align="center">
-  <img src="https://cdn.webzignet.ml/portada.png" alt="Screenshot of the Revolt client with the Revolt Testers server open in the Information and Rules channel." />
+  <img ="https://cdn.webzignet.ml/portada.png" />
 </p>
 
 # Links
