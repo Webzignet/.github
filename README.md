@@ -8,4 +8,4 @@
 
 - ### [🌍 Website](https://webzignet.com) The Webzignet website.
 - ### [🔧 Support](mailto:support@webzignet.com).
-- ### [✉️ Contact](mailto:contact@webzignet.com)
+- ### [✉️ Contact](mailto:contact@webzignet.com).
