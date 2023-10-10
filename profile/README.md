@@ -6,5 +6,6 @@
 
 # Links
 
-- ### [🌍 Website](https://webzignet.ml) The Webzignet website.
-- ### [🔧 Developer Documentation](https://webzignet.ml/developers) Docs for developers.
+- ### [🌍 Website](https://webzignet.com) The Webzignet website.
+- ### [🔧 Support](mailto:support@webzignet.com).
+- ### [✉️ Contact](mailto:contact@webzignet.com).
